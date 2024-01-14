@@ -31,8 +31,8 @@ Please refer to the LICENSE in the repo.
 Link to the live application: https://nathaliareyes.github.io/password-generator/
 The following image shows the web application's appearance and functionality:
 
-![PASSWORD-GENERATOR](./assets/img/prompt-1.png)
-![PROMPT-2](./assets/img/prompt-2.png)
+![PASSWORD-GENERATOR](./assets/img/prompt-4.png)
+![PROMPT-2](./assets/img/prompt-3.png)
 
 ## Badges
 
