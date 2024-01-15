@@ -134,4 +134,12 @@ button[disabled] {
   .btn {
     font-size: 0.8rem;
   }
+
+  .card-header h2 {
+    font-size: 1.2rem;
+  }
+
+  .card-header {
+    text-align: center;
+  }
 }
