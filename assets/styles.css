@@ -118,6 +118,8 @@ button[disabled] {
   overflow: hidden;
 }
 
+/** This is a media query for desktop devices, it will make the font-size of the button smaller
+ and the font-size of the card header smaller**/
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
@@ -130,6 +132,8 @@ button[disabled] {
   }
 }
 
+/** This is a media query for mobile devices, it will make the font-size of the button smaller
+ and the font-size of the card header smaller**/
 @media (max-width: 500px) {
   .btn {
     font-size: 0.8rem;
